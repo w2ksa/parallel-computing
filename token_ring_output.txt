@@ -1,0 +1,40 @@
+Token Ring Simulation Output
+
+Process 0 starts with the token
+Process 0 received the token
+Process 0 wants to print
+Process 0 is printing document #1
+Process 0 finished printing and releases the printer
+Process 0 wants to print
+Process 0 is printing document #2
+Process 0 finished printing and releases the printer
+Process 0 wants to print
+Process 0 is printing document #3
+Process 0 finished printing and releases the printer
+Process 0 passed token to Process 1
+Process 0 completed all printing tasks
+Process 1 received the token
+Process 1 wants to print
+Process 1 is printing document #1
+Process 1 finished printing and releases the printer
+Process 1 wants to print
+Process 1 is printing document #2
+Process 1 finished printing and releases the printer
+Process 1 wants to print
+Process 1 is printing document #3
+Process 1 finished printing and releases the printer
+Process 1 passed token to Process 2
+Process 1 completed all printing tasks
+Process 2 received the token
+Process 2 wants to print
+Process 2 is printing document #1
+Process 2 finished printing and releases the printer
+Process 2 wants to print
+Process 2 is printing document #2
+Process 2 finished printing and releases the printer
+Process 2 wants to print
+Process 2 is printing document #3
+Process 2 finished printing and releases the printer
+Process 2 passed token to Process 0
+Process 2 completed all printing tasks
+Simulation completed. All processes finished printing.
